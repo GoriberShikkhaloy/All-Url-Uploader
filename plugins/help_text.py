@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | @Edit By Hash Minner
+# (c) Shrimadhav U K | @Edit By Simplified Extremist
 
 # the logging things
 import logging
@@ -46,8 +46,8 @@ async def start(bot, message):
     reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Comment", url="https://t.me/TMWAD/18"),
-                    InlineKeyboardButton("🤖 Updates", url="https://t.me/TMWAD")
+                    InlineKeyboardButton("Owner", url="https://t.me/SimplifiedExtremist"),
+                    InlineKeyboardButton("Channel", url="https://t.me/EducationalCourse")
                 ]
             ]
         ),
