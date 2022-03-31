@@ -14,9 +14,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/All_URL_Uploader_Bot",
-  "website": "https://github.com/kalanakt",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "success_url": "https://t.me/SimplifiedExtremist",
+  "website": "https://t.me/SimplifiedExtremist",
+  "repository": "https://github.com/GoriberShikkhaloy/All-Url-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
